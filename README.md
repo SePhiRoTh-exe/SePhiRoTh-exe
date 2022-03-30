@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **....I can not tell you**
 
-- 👯 I’m looking to collaborate on **With a very patient one**
+- 👯 I’m looking to collaborate **with a very patient one**
 
 - 🤝 I’m looking for help with **game developement**
 
