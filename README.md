@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **game developement**
 
-- 👨‍💻 All of my projects are available on [my computer](my computer)
+- 👨‍💻 All of my projects are available **on my computer**
 
 - 📫 How to reach me **with social**
 
-- 📄 Know about my experiences [do you know the curses?](do you know the curses?)
+- 📄 Know about my experiences..... **do you know the curses?**
 
 - ⚡ Fun fact **I develop with the music of the 30s as a background**
 
