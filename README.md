@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi noobs, I'm SePhiRoTh-exe , your nightmare</h1>
+<h1 align="center">Hi , I'm SePhiRoTh-exe</h1>
 <h3 align="center">A crazy developer from Hell</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sephiroth-exe&label=Profile%20views&color=0e75b6&style=flat" alt="sephiroth-exe" /> </p>
